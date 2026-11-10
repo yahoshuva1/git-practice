@@ -14,4 +14,4 @@ This change was created on a feature branch.
 
 ## Remote Practice
 
-This change was made directly on the main branch.
+This change was made while practicing local and main branch workflows.
