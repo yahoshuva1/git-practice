@@ -14,4 +14,4 @@ This change was created on a feature branch.
 
 ## Remote Practice
 
-This change was made directly on GitHub.
+This change was made in the local feature branch.
