@@ -11,3 +11,7 @@ Learning Git and GitHub with pyahoshuva.
 ## Branch Practice
 
 This change was created on a feature branch.
+
+## Remote Practice
+
+This change was made directly on GitHub.
